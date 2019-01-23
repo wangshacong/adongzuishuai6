@@ -3,7 +3,7 @@
 
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <title>热播韩剧网 - 韩剧TV最新韩剧在线观看 - 热播网</title>
+    <title>厦门实创新闻</title>
     <meta name="keywords" content="韩剧TV,韩国电视剧,韩国综艺,韩剧网,最新韩剧,好看的韩剧,韩剧排行榜,热播韩剧网" />
     <meta name="description" content="韩剧热播网是一家提供韩剧排行榜,好看的韩剧,娱乐新闻,韩国电视剧,韩剧资料馆,剧情介绍,韩国明星,韩剧OST,明星图片" />
     <link rel="alternate" media="only screen and(max-width: 640px)" href="https://m.y3600.co/" />

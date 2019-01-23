@@ -17,7 +17,7 @@
     <script type="text/javascript" async="" src="/js/pr.js.下载"></script>
     <script type="text/javascript" charset="gbk" id="tanx-s-mm_35164828_181500345_52177500172" async="" src="/js/ex(3)"></script>
 
-    <title>韩国明星 - 韩剧TV - 热播韩剧网</title>
+    <title>{{$dangqian_fenlei['fenlei_name']}}</title>
     <meta name="keywords" content="韩国明星,明星图片,韩剧网">
     <meta name="description" content="热播网韩国明星栏目为您提供最及时的韩国明星动态和韩剧明星生活,韩国歌星,童星,主持人等的档案资料和新闻。">
     <link rel="alternate" media="only screen and(max-width: 640px)" href="https://m.y3600.co/60/index.html">
