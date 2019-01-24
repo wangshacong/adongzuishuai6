@@ -29,7 +29,6 @@
                             @foreach($lunbo as $v)
                             <li class="cur"><a href="/article/{{$v->id}}" title="{{$v->title}}" target="_blank"><img
                                         src="{{$v->news_pic}}" alt="{{$v->title}}" /></a></li>
-                            123
                             @endforeach
 
                         </ul>
