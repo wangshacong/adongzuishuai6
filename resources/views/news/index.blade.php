@@ -151,7 +151,7 @@
                 <div class="list">
                     <ul>
                         @foreach($article16 as $val)
-                        <li>·<a href="/article/{{$v->id}}" title="{{$val->title}}"
+                        <li>·<a href="/article/{{$val->id}}" title="{{$val->title}}"
                                 target="_blank">{{$val->title}}</a></li>
                         @endforeach
                         
